@@ -1,3 +1,5 @@
+### In progress - life began as a function
+
 # LogMeInRescue
 
 This class currently provides one function: formatting of Post-to-URL chat logs in a display-friendly manner. It takes the unformatted wall-of-text from LogMeIn and adds \<p> and \<span> tags so that the resulting output can be displayed on webpages or sent in HTML e-mails.

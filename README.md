@@ -16,12 +16,17 @@ $chat_log = $lmi->formatChat($chat);
 Options! Lots of options! Well, sort of...
 
 $lmi->chatClass(''); // sets the class name assigned to the entire chat
+
 $lmi->techClass(''); // names the class for tech names
+
 $lmi->timeClass(''); // names the class for time stamps
+
 $lmi->custClass(''); // names the class for customer names
+
 $lmi->systClass(''); // names the class for system messages
 
 $lmi->setMethod('div'); // uses divs instead of spans (could break things)
+
 // default behavior is to use spans
 
 

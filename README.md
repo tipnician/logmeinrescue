@@ -7,6 +7,7 @@ This class currently provides one function: formatting of Post-to-URL chat logs 
 # Installation
 
 require_once('logmeinrescue.php');
+
 $lmi = new logmeinrescue;
 
 $chat_log = $lmi->formatChat($chat);
